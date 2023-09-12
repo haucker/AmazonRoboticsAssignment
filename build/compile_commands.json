@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/haucker/Desktop/assignment/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Assignment.dir/main.cpp.o -c /home/haucker/Desktop/assignment/main.cpp",
+  "file": "/home/haucker/Desktop/assignment/main.cpp",
+  "output": "CMakeFiles/Assignment.dir/main.cpp.o"
+}
+]
